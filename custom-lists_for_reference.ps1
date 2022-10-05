@@ -87,7 +87,6 @@
     "Microsoft.WebMediaExtensions"
     "RealtekSemiconductorCorp.RealtekAudioControl"
     "CanonicalGroupLimited.UbuntuonWindows"
-    "Microsoft.549981C3F5F10"
     "Microsoft.VP9VideoExtensions"
     "Microsoft.DesktopAppInstaller"
     "Microsoft.Windows.Photos"
@@ -99,9 +98,10 @@
     "Microsoft.UI.Xaml.2.8"
     "Microsoft.UI.Xaml.2.8"
     "Microsoft.MicrosoftEdge.Stable"
-	 "FACEBOOK.317180B0BB486"
+    "FACEBOOK.317180B0BB486"
 )
 $global:Bloatware = @(
+    "Microsoft.549981C3F5F10"
     "Microsoft.Xbox.TCUI"
     "Microsoft.XboxApp"
     "Microsoft.XboxGameOverlay"
